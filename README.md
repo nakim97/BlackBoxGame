@@ -1,4 +1,4 @@
-# portfolio-project
+# portfolio-project (WORK IN PROGRESS)
 
 **Remember that this project cannot be submitted late.**
 
