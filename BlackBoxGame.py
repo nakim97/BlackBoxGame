@@ -1,6 +1,6 @@
 # Name: Na Kim
 # Date: 08/3/2020
-# Description: This written program represents the game, BlackBox that takes place on a 10x10 grid.
+# Description: This written program represents the game, BlackBox that takes place on a 10x10 grid. (WIP)
 
 class BlackBoxGame:
     """ Represents the game,BlackBox, with atoms and ray entrance/exit, that takes place on a 10 x 10 grid"""
